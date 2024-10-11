@@ -1,3 +1,5 @@
 This repository exists for demonstration purposes; it was created to show students how to create a repository and follow basic Git processes using it.
 
 Processes include: cloning, editing, staging, committing, and pushing.
+
+This edit is used to demonstrate the basic Git workflow.
